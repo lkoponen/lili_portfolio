@@ -1,6 +1,7 @@
 body {
-	background-color: #FEFEFE;
+	background-color: #11CBF0;
 	color: #666666;
+	font-family: 'Architects Daughter', cursive;
 }
 hr {
 	background-color: #FBD60F;
@@ -15,4 +16,7 @@ a {
 h3 {
 	font-size: xx-large;
 	font-weight: bold;
+}
+.container {
+	background-color: #ffffff;
 }
