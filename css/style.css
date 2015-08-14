@@ -1,0 +1,14 @@
+body {
+	background-color: #FEFEFE;
+	color: #666666;
+}
+hr {
+	background-color: #FBD60F;
+	height: 5px;
+}
+a {
+	color: #11CBF0;
+}
+.featured-img {
+	margin: auto;
+}
