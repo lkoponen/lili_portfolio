@@ -1,16 +1,16 @@
 body {
-	background-color: #11CBF0;
+	background-color: #11cbf0;
 	color: #666666;
-	font-family: 'Architects Daughter', cursive;
+	font-family: "Architects Daughter", cursive;
 }
 
 hr {
-	background-color: #FBD60F;
+	background-color: #fbd60f;
 	height: 5px;
 }
 
 a {
-	color: #11CBF0;
+	color: #11cbf0;
 }
 
 .featured-img {
